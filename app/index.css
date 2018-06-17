@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.optIn{
+    width: 75%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.optInForm{
+    border: 1px solid black;
+    display: inline-block;
+    width: 25%;
+}
+
+.optInForm > input{
+    display: block;
+    margin: 1 auto;
+}
